@@ -33,7 +33,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
     <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://www.python.org/static/img/python-logo.png" alt="linux" width="40" height="40"/> 
+        <img src="https://docs.python.org/3/_static/py.png" alt="linux" width="40" height="40"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
