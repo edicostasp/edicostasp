@@ -23,6 +23,9 @@ Here are some ideas to get you started:
     <a href="https://docker.com/" target="_blank"> 
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="40" height="40"/> 
     </a> 
+    <a href="https://aws.com/" target="_blank"> 
+        <img src="https://press.aboutamazon.com/system/files-encrypted/nasdaq_kms/inline-images/AWS.jpg" alt="aws" width="40" height="40"/> 
+    </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a> 
