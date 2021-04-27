@@ -1,9 +1,6 @@
 ### Hi there, I'm Edmilson 👋
-
 <div align="right">
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/edicostasp)](https://github.com/edicostasp)
-
 </div>
 ### An enthusiastic apprentice passionate about technology !!!
 
@@ -12,12 +9,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning about devops, docker, kubernets, cloud and micro services
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [linkedin]
 - 📖 Participating on curso FullCycle Developer, at Code Education
 - ⚡ Fun fact: ...
 ### Stacks :computer:
