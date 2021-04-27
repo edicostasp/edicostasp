@@ -20,17 +20,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 📖 Participating on curso FullCycle Developer, at Code Education
 - ⚡ Fun fact: ...
-
-<h3 align="left">Languages and Tools:</h3>
+### Stacks :computer:
 <p align="left"> 
     <a href="https://github.com/" target="_blank"> 
         <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="github" width="40" height="40"/> 
     </a> 
     <a href="https://docker.com/" target="_blank"> 
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="40" height="40"/> 
+        <img src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="docker" width="40" height="40"/> 
     </a> 
     <a href="https://aws.com/" target="_blank"> 
-        <img src="https://press.aboutamazon.com/system/files-encrypted/nasdaq_kms/inline-images/AWS.jpg" alt="aws" width="40" height="40"/> 
+        <img src="https://press.aboutamazon.com/system/files-encrypted/nasdaq_kms/inline-images/AWS.jpg" alt="aws" width="40" height="32"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
