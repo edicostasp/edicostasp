@@ -6,9 +6,10 @@
 
 </div>
 ### An enthusiastic apprentice passionate about technology !!!
+
 <!--
 **edicostasp/edicostasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 📖 Participating on curso FullCycle Developer, at Code Education
 - ⚡ Fun fact: ...
--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
