@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 </p>
 
+<br/>
 ### Stats :chart_with_upwards_trend:
 
 <div align="center" style="display: flex; flex-wrap: wrap">
