@@ -1,7 +1,11 @@
 ### Hi there, I'm Edmilson 👋
+
 <div align="right">
+    
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/edicostasp)](https://github.com/edicostasp)
+
 </div>
+
 ### An enthusiastic apprentice passionate about technology !!!
 
 <!--
